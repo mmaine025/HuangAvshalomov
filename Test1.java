@@ -4,4 +4,9 @@ public class Test1 {
     {
         System.out.println("yo gurt \ngurt yo");
     }
+    
+    public static int sum(int a, int b)
+    {
+        return a + b;
+    }
 }

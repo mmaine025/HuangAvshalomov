@@ -9,4 +9,9 @@ public class Test1 {
     {
         return a+b;
     }
+    
+    public static int subtract(int x, int y)
+    {
+        return x - y;
+    }
 }
